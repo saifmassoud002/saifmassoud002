@@ -154,7 +154,6 @@ I'm studying for my engineering degree in Cybersecurity at TEK-UP and growing my
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=saifmassoud002&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifmassoud002&layout=donut&theme=radical&hide_border=true&bg_color=0d1117" />
 
 <br/>
@@ -166,9 +165,6 @@ I'm studying for my engineering degree in Cybersecurity at TEK-UP and growing my
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifmassoud002&theme=react-dark&hide_border=true&bg_color=0d1117&color=9b6bff&line=9b6bff&point=ffffff" width="100%" />
 
 <br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=saifmassoud002&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
 </div>
 
 ---
