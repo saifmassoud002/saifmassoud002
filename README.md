@@ -29,7 +29,7 @@ const saif = {
   role: "Cybersecurity engineering student & full-stack developer",
   currently: "Engineering degree in Cybersecurity at TEK-UP University",
   lookingFor: "Internship or junior role: SOC Analyst, Security Analyst, Pentester, DevSecOps",
-  location: "Ariana, Tunisia (open to Tunis area and remote Tunisia)",
+  location: "Ariana, Tunisia",
   languages: {
     spoken: ["Arabic (native)", "English (B1)", "French (B1)", "Italian (A1)"],
     code: ["JavaScript", "Python", "PHP", "Java", "SQL", "Bash"],
@@ -41,8 +41,6 @@ const saif = {
 - I started in full-stack development (BSc in Computer Science, ISIMahdia) and moved into security, so I think about how an app can be attacked while I build it.
 - I secure what I ship: JWT, RBAC, input validation, parameterized queries and encryption were part of both my internships.
 - I practise on my own home lab: Kali Linux against Metasploitable, Nmap scans, Wireshark captures and Linux log review.
-
-> Honest note: I'm early in my security career. No certifications yet and no SIEM experience, and I'm working on both.
 
 ---
 
@@ -156,7 +154,7 @@ I'm studying for my engineering degree in Cybersecurity at TEK-UP and growing my
 <div align="center">
 
 <a href="https://github.com/saifmassoud002">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saifmassoud002&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img height="160" src="[https://github-readme-stats.vercel.app/api?username=saifmassoud002&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117](https://github-readme-stats.vercel.app/api?username=saifmassoud002&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)" />
 </a>
 <a href="https://github.com/saifmassoud002">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifmassoud002&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
