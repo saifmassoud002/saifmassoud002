@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# Hi, I'm Saif Eddinne Massoud 👋
+# Hi, I'm Saif Eddinne Massoud 
 
 **Cybersecurity engineering student · Ariana, Tunisia**
 
@@ -149,16 +149,25 @@ I'm studying for my engineering degree in Cybersecurity at TEK-UP and growing my
 
 ---
 
+
 ## 06. github activity
 
 <div align="center">
 
-<a href="https://github.com/saifmassoud002">
-  <img height="160" src="[https://github-readme-stats.vercel.app/api?username=saifmassoud002&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117](https://github-readme-stats.vercel.app/api?username=saifmassoud002&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)" />
-</a>
-<a href="https://github.com/saifmassoud002">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifmassoud002&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-</a>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=saifmassoud002&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifmassoud002&layout=donut&theme=radical&hide_border=true&bg_color=0d1117" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=saifmassoud002&theme=dark&hide_border=true&background=0d1117&ring=9b6bff&fire=9b6bff&currStreakLabel=c9a0ff" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifmassoud002&theme=react-dark&hide_border=true&bg_color=0d1117&color=9b6bff&line=9b6bff&point=ffffff" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=saifmassoud002&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
 </div>
 
